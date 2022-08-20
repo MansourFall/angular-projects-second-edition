@@ -104,6 +104,7 @@
       }
     }
   },
+  "defaultProject": "my-blog",
   "cli": {
     "analytics": "2bae0c8e-2fc2-4f6c-9c1d-4121e4509e91"
   }
